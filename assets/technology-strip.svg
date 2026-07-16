@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
+  <title id="title">Technology toolkit</title>
+  <desc id="description">Languages: Java, TypeScript, C Sharp, and Go. Development: React, Spring Boot, .NET, and Flutter. Data and tools: PostgreSQL, Docker, and Git.</desc>
+  <style>
+    .bg{fill:#fff;stroke:#dbe3ee}.ink{fill:#182235}.muted{fill:#66748a}.rule{stroke:#dbe3ee}.tile{fill:#f8fafc;stroke:#e2e8f0}.iconbg{fill:#eef4ff}.blue{fill:#2563eb;color:#2563eb}.cyan{fill:#0891b2;color:#0891b2}.green{fill:#16a34a;color:#16a34a}.purple{fill:#7c3aed;color:#7c3aed}.orange{fill:#ea580c;color:#ea580c}.red{fill:#dc2626;color:#dc2626}.iconline{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+    @media(prefers-color-scheme:dark){.bg{fill:#111821;stroke:#303b4a}.ink{fill:#edf4fb}.muted{fill:#9aa9bc}.rule{stroke:#303b4a}.tile{fill:#151e29;stroke:#2b3746}.iconbg{fill:#172943}.blue{fill:#60a5fa;color:#60a5fa}.cyan{fill:#22d3ee;color:#22d3ee}.green{fill:#4ade80;color:#4ade80}.purple{fill:#a78bfa;color:#a78bfa}.orange{fill:#fb923c;color:#fb923c}.red{fill:#f87171;color:#f87171}}
+  </style>
+  <rect class="bg" x="1" y="1" width="1198" height="218" rx="18"/>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif">
+    <text class="blue" x="42" y="45" font-size="13" font-weight="750" letter-spacing="2.2">TOOLKIT / CURRENT WORKING SET</text>
+    <path class="rule" d="M405 68v128M806 68v128"/>
+
+    <text class="muted" x="42" y="85" font-size="13" font-weight="700" letter-spacing="1.6">LANGUAGES</text>
+    <g transform="translate(42 105)">
+      <g transform="translate(0)"><rect class="tile" width="78" height="80" rx="13"/><circle class="iconbg" cx="39" cy="30" r="19"/><path class="orange" d="M31 37h17c-1 6-16 6-17 0m3-4c-4-7 8-7 3-15 8 6-3 10 2 15zm9-12c5 6-4 7-2 12 1-6 9-6 2-12z"/><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">Java</text></g>
+      <g transform="translate(92)"><rect class="tile" width="78" height="80" rx="13"/><rect class="blue" x="21" y="12" width="36" height="36" rx="5"/><text x="39" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#fff">TS</text><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">TypeScript</text></g>
+      <g transform="translate(184)"><rect class="tile" width="78" height="80" rx="13"/><path class="purple" d="m39 10 19 11v22L39 54 20 43V21z"/><text x="39" y="38" text-anchor="middle" font-size="15" font-weight="800" fill="#fff">C#</text><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">C Sharp</text></g>
+      <g transform="translate(276)"><rect class="tile" width="78" height="80" rx="13"/><circle class="iconbg" cx="39" cy="30" r="19"/><text class="cyan" x="39" y="37" text-anchor="middle" font-size="20" font-weight="800">Go</text><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">Go</text></g>
+    </g>
+
+    <text class="muted" x="438" y="85" font-size="13" font-weight="700" letter-spacing="1.6">DEVELOPMENT</text>
+    <g transform="translate(438 105)">
+      <g transform="translate(0)"><rect class="tile" width="78" height="80" rx="13"/><g class="cyan" transform="translate(39 30)"><circle r="4"/><ellipse class="iconline" rx="19" ry="7"/><ellipse class="iconline" rx="19" ry="7" transform="rotate(60)"/><ellipse class="iconline" rx="19" ry="7" transform="rotate(120)"/></g><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">React</text></g>
+      <g transform="translate(92)"><rect class="tile" width="78" height="80" rx="13"/><circle class="iconbg" cx="39" cy="30" r="19"/><path class="green" d="M24 34c5-15 20-20 31-17-3 13-12 23-27 20 7-2 13-7 18-13-8 5-14 8-22 10z"/><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">Spring</text></g>
+      <g transform="translate(184)"><rect class="tile" width="78" height="80" rx="13"/><circle class="purple" cx="39" cy="30" r="19"/><text x="39" y="35" text-anchor="middle" font-size="12" font-weight="800" fill="#fff">.NET</text><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">.NET</text></g>
+      <g transform="translate(276)"><rect class="tile" width="78" height="80" rx="13"/><circle class="iconbg" cx="39" cy="30" r="19"/><path class="blue" d="m24 30 13-13h14L31 37zm8 8 7-7 12 12H39z"/><path class="cyan" d="m39 31 7-7h9L47 32l8 8h-9z"/><text class="ink" x="39" y="68" text-anchor="middle" font-size="12" font-weight="650">Flutter</text></g>
+    </g>
+
+    <text class="muted" x="839" y="85" font-size="13" font-weight="700" letter-spacing="1.6">DATA &amp; TOOLS</text>
+    <g transform="translate(839 105)">
+      <g transform="translate(0)"><rect class="tile" width="88" height="80" rx="13"/><ellipse class="blue" cx="44" cy="19" rx="16" ry="7"/><path class="blue" d="M28 19v22c0 9 32 9 32 0V19c-3 8-29 8-32 0zm4 11c7 4 17 4 24 0v5c-7 4-17 4-24 0z"/><text class="ink" x="44" y="68" text-anchor="middle" font-size="12" font-weight="650">PostgreSQL</text></g>
+      <g transform="translate(102)"><rect class="tile" width="88" height="80" rx="13"/><g class="blue"><rect x="27" y="19" width="8" height="7" rx="1"/><rect x="37" y="19" width="8" height="7" rx="1"/><rect x="47" y="19" width="8" height="7" rx="1"/><rect x="37" y="10" width="8" height="7" rx="1"/><path d="M22 29h42c-2 14-12 21-27 20-8 0-13-8-15-20z"/></g><text class="ink" x="44" y="68" text-anchor="middle" font-size="12" font-weight="650">Docker</text></g>
+      <g transform="translate(204)"><rect class="tile" width="88" height="80" rx="13"/><path class="orange" d="m44 10 20 20-20 20-20-20z"/><g fill="none" stroke="#fff" stroke-width="2.5"><path d="M36 22v15l8 6V28l8 6"/><circle cx="36" cy="21" r="3" fill="#fff"/><circle cx="44" cy="43" r="3" fill="#fff"/><circle cx="52" cy="34" r="3" fill="#fff"/></g><text class="ink" x="44" y="68" text-anchor="middle" font-size="12" font-weight="650">Git</text></g>
+    </g>
+  </g>
+</svg>

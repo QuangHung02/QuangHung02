@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Hưng Lê — Software Engineering Student</title>
+  <desc id="description">Turning user needs and ideas into practical digital products.</desc>
+  <style>
+    .bg{fill:#f8fafc}.frame{fill:#fff;stroke:#dbe3ee}.grid{stroke:#dce8f7}.accent{fill:#2563eb}.accent2{fill:#0ea5e9}.ink{fill:#142033}.muted{fill:#53627a}.wire{stroke:#93c5fd}.chip{fill:#eff6ff;stroke:#bfdbfe}
+    @media(prefers-color-scheme:dark){.bg{fill:#0d1117}.frame{fill:#111821;stroke:#303b4a}.grid{stroke:#1d2b3d}.accent{fill:#60a5fa}.accent2{fill:#38bdf8}.ink{fill:#f0f6fc}.muted{fill:#a9b7c8}.wire{stroke:#315f8e}.chip{fill:#14263c;stroke:#315f8e}}
+  </style>
+  <rect class="bg" width="1200" height="300" rx="22"/>
+  <rect class="frame" x="16" y="16" width="1168" height="268" rx="17"/>
+  <g class="grid" opacity=".55" stroke-width="1">
+    <path d="M30 70h1140M30 150h1140M30 230h1140M320 30v240M720 30v240M1040 30v240"/>
+  </g>
+  <g aria-hidden="true">
+    <circle class="accent" cx="76" cy="65" r="6"/><rect class="accent2" x="91" y="59" width="32" height="12" rx="6" opacity=".55"/>
+    <g fill="none" stroke-width="2">
+      <path class="wire" d="M889 76h92l29 29h72M852 150h73l38-38M889 224h92l29-29h72"/>
+      <circle class="accent" cx="889" cy="76" r="5" stroke="none"/><circle class="accent2" cx="1082" cy="105" r="5" stroke="none"/>
+      <circle class="accent2" cx="852" cy="150" r="5" stroke="none"/><circle class="accent" cx="889" cy="224" r="5" stroke="none"/>
+    </g>
+    <rect class="chip" x="963" y="121" width="119" height="58" rx="12"/>
+    <path class="wire" d="m1003 140-13 10 13 10m39-20 13 10-13 10m-13-26-9 32" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif">
+    <text class="accent" x="70" y="79" font-size="17" font-weight="700" letter-spacing="2.8">SOFTWARE ENGINEERING STUDENT</text>
+    <text class="ink" x="66" y="162" font-size="72" font-weight="760" letter-spacing="-2.5">Hưng Lê</text>
+    <text class="muted" x="70" y="215" font-size="23">Turning user needs and ideas into practical digital products.</text>
+  </g>
+</svg>
