@@ -2,10 +2,16 @@
   <img src="./assets/profile-hero.svg" width="100%" alt="Hưng Lê — Software Engineering Student. Turning user needs and ideas into practical digital products." />
 </p>
 
-<p align="center"><sub>I enjoy understanding user requirements, shaping product flows, building usable software, and exploring new technologies through automation and AI-assisted workflows.</sub></p>
+<p align="center">
+  <img src="./assets/profile-summary.svg" width="100%" alt="I enjoy understanding user needs, shaping clear product flows, and turning ideas into practical software. I’m always exploring better ways to build through system design, automation, and AI-assisted development." />
+</p>
 
 <p align="center">
   <img src="./assets/technology-strip.svg" width="100%" alt="Technology toolkit: Java, TypeScript, C Sharp, Go, React, Spring Boot, .NET, Flutter, PostgreSQL, Docker, and Git." />
+</p>
+
+<p align="center">
+  <img src="./assets/github-activity.svg" width="100%" alt="GitHub activity snapshot for July 16, 2026: 5 public repositories, 198 contributions in 2026, main areas across web, mobile, backend and AI, and a current focus on product systems and AI workflows." />
 </p>
 
 <p align="center">
@@ -14,8 +20,8 @@
 
 <p align="center">
   <!-- CONTACT PLACEHOLDERS: replace the four href values in this block. -->
-  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-475569?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
-  <a href="https://your-cv.example.com"><img src="https://img.shields.io/badge/CV-334155?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
+  <a href="https://www.linkedin.com/in/your-handle"><img src="./assets/contact-linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:your.email@example.com"><img src="./assets/contact-email.svg" height="40" alt="Email" /></a>&nbsp;
+  <a href="https://your-portfolio.example.com"><img src="./assets/contact-portfolio.svg" height="40" alt="Portfolio" /></a>&nbsp;
+  <a href="https://your-cv.example.com"><img src="./assets/contact-cv.svg" height="40" alt="CV" /></a>
 </p>

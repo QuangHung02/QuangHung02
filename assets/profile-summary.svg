@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="122" viewBox="0 0 1200 122" role="img" aria-labelledby="title description">
+  <title id="title">Profile summary</title>
+  <desc id="description">I enjoy understanding user needs, shaping clear product flows, and turning ideas into practical software. I’m always exploring better ways to build through system design, automation, and AI-assisted development.</desc>
+  <style>
+    .bg{fill:#f8fafc;stroke:#dbe3ee}.ink{fill:#243047}.muted{fill:#526178}.accent{fill:#2563eb}.line{stroke:#bfdbfe}
+    @media(prefers-color-scheme:dark){.bg{fill:#0f151d;stroke:#303b4a}.ink{fill:#e6edf5}.muted{fill:#a8b6c7}.accent{fill:#60a5fa}.line{stroke:#315f8e}}
+  </style>
+  <rect class="bg" x="1" y="1" width="1198" height="120" rx="16"/>
+  <rect class="accent" x="32" y="27" width="4" height="68" rx="2"/>
+  <path class="line" d="M60 61h18" stroke-width="2"/>
+  <g font-family="Inter,ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif" font-size="20">
+    <text class="ink" x="94" y="51" font-weight="560">I enjoy understanding user needs, shaping clear product flows, and turning ideas into practical software.</text>
+    <text class="muted" x="94" y="83">I’m always exploring better ways to build through system design, automation, and AI-assisted development.</text>
+  </g>
+</svg>
