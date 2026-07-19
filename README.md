@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/technology-strip.svg" width="100%" alt="Technology toolkit: Java, TypeScript, C Sharp, Go, React, Spring Boot, .NET, Flutter, PostgreSQL, Docker, and Git." />
+  <img src="./assets/github-activity.svg" width="100%" alt="Profile activity snapshot for July 16, 2026: 5 public repositories, 198 contributions in 2026, main areas across web, mobile, backend and AI, and a current focus on product systems and AI workflows." />
 </p>
 
 <p align="center">
-  <img src="./assets/github-activity.svg" width="100%" alt="GitHub activity snapshot for July 16, 2026: 5 public repositories, 198 contributions in 2026, main areas across web, mobile, backend and AI, and a current focus on product systems and AI workflows." />
+  <img src="./assets/technology-strip.svg" width="100%" alt="Technology toolkit: Java, TypeScript, C Sharp, Go, React, Spring Boot, .NET, Flutter, PostgreSQL, Docker, and Git." />
 </p>
 
 <p align="center">
